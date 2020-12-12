@@ -20,7 +20,7 @@
     class="mb-2"
         >
         <b-card-text>
-            This is an simple OnePage Application Written in Vue2. You can integrate it anywhere in your vueJS application. It has a simple time with loading animations.
+            This is an simple OnePage Application Written in Vue2. You can integrate it anywhere in your vueJS application. It has a simple timer with loading animations.
             Since it is open source feel free to contribute to this simple quiz Application here: <a target="_blank" href="https://github.com/arpan45/simple-quiz-vue"> Github Repo </a>
         </b-card-text>
       <b-button @click="startQuizFunc()">Start Quiz</b-button>
