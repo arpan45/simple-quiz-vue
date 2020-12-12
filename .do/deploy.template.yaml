@@ -1,0 +1,7 @@
+spec:
+ name: simple-quiz-vue
+ static_sites:
+ - git:
+     branch: main
+     repo_clone_url: https://github.com/arpan45/simple-quiz-vue.git
+   name: simple-quiz-vue
