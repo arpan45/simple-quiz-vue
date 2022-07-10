@@ -115,7 +115,7 @@ export default {
 			],
         },
         {
-			questionText: 'Which of the following is a Full Javascript Frramework',
+			questionText: 'Which of the following is a Full Javascript Framework',
 			answerOptions: [
 				{ answerText: 'Vue', isCorrect: false },
 				{ answerText: 'node', isCorrect: false },
